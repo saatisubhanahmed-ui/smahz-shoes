@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#f4f4f5"/>
+  <g transform="translate(90 200)">
+    <path d="M20 170 C20 120 40 90 70 80 L150 60 C175 55 190 30 200 10 L230 0 C250 30 270 50 310 70 L380 105 C420 120 430 150 425 170 Z" fill="#ffffff" stroke="#0a0a0a" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M10 170 L430 170 C432 185 420 200 400 200 L40 200 C20 200 8 188 10 170 Z" fill="#e11d2a"/>
+    <path d="M215 40 l30 18 M200 62 l30 18 M185 84 l30 18" stroke="#0a0a0a" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="300" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="34" letter-spacing="10" fill="#a1a1aa">SMAHZ</text>
+</svg>
